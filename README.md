@@ -4,8 +4,8 @@
 Tiny llvm-objdump patch which list gadgets found in a binary.
 
 If you are looking for:
-    - a gadget generator: please find something else.
-    - an LLVM's hack example: please keep reading.
+ - a gadget generator: please find something else.
+ - an LLVM's hack example: please keep reading.
 
 ## Compilation
 
